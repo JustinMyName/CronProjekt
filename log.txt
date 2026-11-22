@@ -89,3 +89,6 @@ Heute gibt es keinen Speiseplan (Mensa geschlossen oder Wochenende).
 === Mensa-Speiseplan vom 21.11.2026 (Stand: 2026-11-21 15:50:13) ===
 Heute gibt es keinen Speiseplan (Mensa geschlossen oder Wochenende).
 
+=== Mensa-Speiseplan vom 22.11.2026 (Stand: 2026-11-22 15:49:37) ===
+Heute gibt es keinen Speiseplan (Mensa geschlossen oder Wochenende).
+
